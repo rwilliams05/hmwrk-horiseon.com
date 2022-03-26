@@ -1,2 +1,0 @@
-A landing page for digital marketing company, Horiseon.
-Homework is to fix broken links, provide alt text to all images to facilitate seo, consolidate and comment css, while maintaing current look of the page.
